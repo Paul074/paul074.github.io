@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.paul074.kitefinance",
+    "sha256_cert_fingerprints": ["EA:92:64:93:42:A3:DC:0E:2B:2E:4B:BA:BF:EA:46:85:19:46:A2:D7:70:25:88:56:C0:BC:3A:B8:A5:26:38:DE"]
+  }
+}]
